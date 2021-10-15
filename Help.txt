@@ -1,0 +1,80 @@
+                                                                                                      
+                                        *====================*                                        
+                                        | Welcome to Rubiko! |                                        
+                                        *====================*                                        
+                    Rubiko is a puzzle game based on the original 3x3 Rubik's cube.                   
+                            The six sides are represented in a grid view.                             
+                                                                                                      
+                                                                                                      
+                                                  -----                                               
+                                                  | B |                                               
+                                          -----------------                                           
+                                          | F | E | A | C |                                           
+                                          -----------------                                           
+                                                  | D |                                               
+                                                  -----                                               
+                                                                                                      
+                     On the main menu you have a couple of options to start a game.                   
+            If you want to play a brand new randomly generated cube simply press Let's Play.       
+        If you want to continue a game you saved before go to Load game, then press Let's Play.  
+                                                                                                 
+                        Now that you have started the game you see the grid.                    
+                      Your job is to get every side filled with the same number.                 
+                                                                                                 
+                    To do this you tell the game what has to be moved and where.                 
+                                                                                                 
+                                        You first choose a side.                                 
+                        Your options are: A, B, C, D, E, F and a, b, c, d, e, f.                 
+                                                                                                 
+                       Your second choice is which colomn or row needs to be moved.              
+                                            1, 2, 3 are colomns.                                  
+                                            4, 5, 6 are rows.                                    
+       If you choose colomn, you next tell the program if you want to move it up or down, 1 or    
+        If you choose row, you next tell the game if you want to move it left or right, 1 or 2    
+                                                                                                  
+                                          This counts as one move.                                
+                                                                                                  
+                     Every move will effect the other side like a real Rubik's cube,             
+                       so your job is to realise how every side effects the others.              
+                                                                                                 
+               If at any time during a move you wish to open the menu you simply enter M,        
+                              at the end of the turn the Menu will pop up.                       
+                                                                                                 
+              There you can Save your game, Load another one, open up these Instructions or      
+                                       take a look at the Score Board.                           
+                                                                                                 
+                      In the Load Game options you have the FinishedCube save file               
+                            and the NewCube save file which are for training.                    
+                           One is a completed cube with only one missing move,                   
+                            one is a set random cube that you can practice on.                   
+                                                                                                 
+                                                                                                 
+                                        *====================*                                        
+                                        |     Arcade mode    |                                   
+                                        *====================*                                   
+                                                                                                 
+                                Arcade mode has a special set of rules:                          
+                                                                                                 
+                                      1. You only have 20 moves                                  
+                                                                                                 
+                                   2. Your goal is to earn points                                
+                                                                                                 
+                           3. You earn 10 points by assembling a row or column                   
+                                                                                                 
+                         4. You only get points for the chosen side of that turn                 
+                                                                                                 
+                              5. You must choose a diffrent side every turn                      
+                                                                                                 
+          6. Every odd numbered turn you move a column, every even numbered turn you move a row   
+                                                                                                 
+                     7. If you somehow manage to complete the cube you get 500 points            
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                  If you have any questions contact the developers at sitnicn@gmail.com,         
+                                kozlic8@gmail.com or deedic.b@gmail.com                          
+                        Just don't ask us how to solve it, we don't know either.                 
+                             We accept praise, free food and mild criticism.                     
+                                                                                                 
+                                                                                                 
